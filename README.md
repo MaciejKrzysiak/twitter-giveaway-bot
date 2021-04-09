@@ -19,6 +19,7 @@ $> git clone https://github.com/MaciejKrzysiak/twitter-giveaway-bot.git
 $> cd twitter-giveaway-bot
 ```
 
+### Update super_secret.json
 Once downloaded and inside the twitter-giveaway-bot directory, update super_secret.json to use your credentials. 
 
 A consumer_key, consumer_secret, access_token, and access_token_secret can all be created here: [Twitter Dev](https://developer.twitter.com/en/apply-for-access).
